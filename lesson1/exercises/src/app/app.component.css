@@ -1,0 +1,28 @@
+.centered {
+    text-align: center;
+}
+
+.col-3 {
+    background-image: url(http://daveshea.com/i/bg-pattern3.min.png);
+    border-width: thin;
+}
+
+.boxleft {
+    border-top: solid cadetblue;
+    border-bottom: solid cadetblue;
+    border-left: solid cadetblue;
+}
+
+.boxcenter {
+    border-top: solid cadetblue;
+    border-bottom: solid cadetblue;
+    border-left: dotted cadetblue;
+    border-right: dotted cadetblue;
+}
+
+.boxright {
+    border-top: solid cadetblue;
+    border-bottom: solid cadetblue;
+    border-right: solid cadetblue;
+}
+
